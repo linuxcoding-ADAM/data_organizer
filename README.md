@@ -74,7 +74,7 @@ import shutil
 
 Clone or download this repository:
 
-git clone https://github.com/<your_username>/data_organizer.git
+git clone https://github.com/linuxcoding-ADAM/data_organizer.git
 cd data_organizer
 
 
