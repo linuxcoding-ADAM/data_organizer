@@ -5,3 +5,5 @@ A small Pythone script that organizes files by type or date.
 
 python data_organizer.py
 
+python3 data_organizer.py 
+
