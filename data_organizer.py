@@ -111,5 +111,6 @@ if __name__ == "__main__":
             intelligent_organizer(directory)
             
         print("\nAll tasks are complete.")
-        
+
+# Licensed under MIT License
 # MADE WITH LOVE BY M.A        
