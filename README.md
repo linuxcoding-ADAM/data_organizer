@@ -77,7 +77,7 @@ Clone or download this repository:
 git clone https://github.com/linuxcoding-ADAM/data_organizer.git
 
 cd data_organizer
-'''
+'''bash 
 
 Run the script:
 
