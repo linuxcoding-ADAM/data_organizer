@@ -73,7 +73,7 @@ import shutil
 💻 How to Run
 
 Clone or download this repository:
-
+```bash
 git clone https://github.com/linuxcoding-ADAM/data_organizer.git
 cd data_organizer
 
