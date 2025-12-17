@@ -75,8 +75,9 @@ import shutil
 Clone or download this repository:
 ```bash
 git clone https://github.com/linuxcoding-ADAM/data_organizer.git
-cd data_organizer
 
+cd data_organizer
+'''
 
 Run the script:
 
