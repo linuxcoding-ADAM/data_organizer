@@ -1,9 +1,9 @@
-🗂️ Data Organizer
+# 🗂️ Data Organizer
 
 A smart and minimal Python script that keeps your folders clean and organized automatically.
 It scans any directory and sorts files into categorized subfolders based on their type or extension.
 
-🚀 Overview
+# 🚀 Overview
 
 Tired of a messy Downloads or Desktop folder full of mixed files?
 This script automatically:
@@ -20,7 +20,7 @@ Works on any OS (Linux, macOS, Windows)
 
 No dependencies, no setup — pure Python automation.
 
-⚙️ Features
+# ⚙️ Features
 
 ✅ Sorts files by type (image, video, audio, document, etc.)
 ✅ Automatically creates destination folders
@@ -30,7 +30,7 @@ No dependencies, no setup — pure Python automation.
 ✅ Uses only Python’s built-in modules (os, shutil)
 ✅ Safe to run multiple times
 
-🧩 Supported File Types
+# 🧩 Supported File Types
 Category	Extensions
 Images	.jpg, .jpeg, .png, .gif, .bmp, .tiff, .webp, .svg
 Videos	.mp4, .avi, .mov, .mkv, .flv, .wmv
@@ -40,7 +40,7 @@ Archives	.zip, .rar, .tar, .gz
 Executables / Installers	.exe, .msi
 Disk Images	.iso
 Other	Files with unknown extensions
-🧠 Example
+# 🧠 Example
 Before:
 Downloads/
 ├── photo.jpg
@@ -62,7 +62,7 @@ Downloads/
 ├── Audio/
 │   └── song.mp3
 
-🧰 Requirements
+# 🧰 Requirements
 
 ✅ Works out of the box with Python 3+
 No need to install anything extra — it only uses:
@@ -70,7 +70,7 @@ No need to install anything extra — it only uses:
 import os
 import shutil
 
-💻 How to Run
+# 💻 How to Run
 
 Clone or download this repository:
 ```bash
@@ -79,7 +79,7 @@ git clone https://github.com/linuxcoding-ADAM/data_organizer.git
 cd data_organizer
 ``` 
 
-##Run the script:
+## Run the script:
 ```bash
 python3 data_organizer.py
 ```
