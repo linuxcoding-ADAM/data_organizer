@@ -79,15 +79,15 @@ git clone https://github.com/linuxcoding-ADAM/data_organizer.git
 cd data_organizer
 ``` 
 
-Run the script:
-
+##Run the script:
+```bash
 python3 data_organizer.py
-
+```
 
 or (depending on your system)
-
+```bash
 python data_organizer.py
-
+```
 
 Follow the on-screen instructions:
 
